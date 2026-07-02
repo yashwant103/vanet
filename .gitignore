@@ -6,6 +6,5 @@
 /README.md
 
 /run.sh
-/sumo
 /vanet_simulation.py
 /{results,plots,sumo,bridge,ns3_scripts
