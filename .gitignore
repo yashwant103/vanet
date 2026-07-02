@@ -4,7 +4,7 @@
 /ns3_scripts
 /plots
 /README.md
-/results
+
 /run.sh
 /sumo
 /vanet_simulation.py
